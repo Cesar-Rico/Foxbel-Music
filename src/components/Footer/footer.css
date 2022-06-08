@@ -1,0 +1,46 @@
+.footer {
+    background-color: #EB5757;
+    border-top: '1px solid #E7E7E7';
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 60px;
+    width: 100%;
+    display:flex;
+    justify-content: space-between;
+}
+.backwardStep{
+    margin-right: 1rem;
+    margin-bottom: 0.5rem;
+}
+.forwardStep{
+    margin-left: 1rem;
+    margin-bottom: 0.5rem;
+}
+.info-container{
+    display: flex;
+}
+.image-container{
+}
+.text-container{
+    display: flex;
+    font-size: 14px;
+}
+.icons-container{
+}
+
+.options-container{
+    display: flex;
+    width: 20rem;
+    padding-top: 1rem;
+}
+
+.slider-container{
+    width: 80%;
+}
+
+.volumen-icon{
+    margin-top: 0.3rem;
+    margin-left: 1.5rem;
+}
